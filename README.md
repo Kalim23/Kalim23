@@ -3,8 +3,7 @@
 
 - 👋 Hi, I’m @Kamil
 - 👀 I’m interested in network security and linux administrating.
-- 🌱 I’m currently learning programming in Python3.
-- 💞️ I’m looking to collaborate on python projects.
+- 🌱 I’m currently developing AI skills - like everyone :).
 - 📫 How to reach me: https://www.linkedin.com/in/kamil-andrzejewski-b51418209
 
 ------------------------------------------------------------------
